@@ -1,0 +1,22 @@
+{
+    "testApp": {
+        "country": {
+            "home": {
+                "title": "Countries",
+                "createLabel": "Country を追加",
+                "createOrEditLabel": "Countryを追加または編集"
+            },
+            "created": "A new Country is created with identifier {{ param }}",
+            "updated": "A Country is updated with identifier {{ param }}",
+            "deleted": "A Country is deleted with identifier {{ param }}",
+            "delete": {
+                "question": "Country {{ id }}を削除してもよろしいですか？"
+            },
+            "detail": {
+                "title": "Country"
+            },
+            "countryName": "Country Name",
+            "region": "Region"
+        }
+    }
+}

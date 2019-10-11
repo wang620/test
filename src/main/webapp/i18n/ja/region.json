@@ -1,0 +1,21 @@
+{
+    "testApp": {
+        "region": {
+            "home": {
+                "title": "Regions",
+                "createLabel": "Region を追加",
+                "createOrEditLabel": "Regionを追加または編集"
+            },
+            "created": "A new Region is created with identifier {{ param }}",
+            "updated": "A Region is updated with identifier {{ param }}",
+            "deleted": "A Region is deleted with identifier {{ param }}",
+            "delete": {
+                "question": "Region {{ id }}を削除してもよろしいですか？"
+            },
+            "detail": {
+                "title": "Region"
+            },
+            "regionName": "Region Name"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "testApp": {
+        "employee": {
+            "home": {
+                "title": "Employees",
+                "createLabel": "Employee を追加",
+                "createOrEditLabel": "Employeeを追加または編集"
+            },
+            "created": "A new Employee is created with identifier {{ param }}",
+            "updated": "A Employee is updated with identifier {{ param }}",
+            "deleted": "A Employee is deleted with identifier {{ param }}",
+            "delete": {
+                "question": "Employee {{ id }}を削除してもよろしいですか？"
+            },
+            "detail": {
+                "title": "Employee"
+            },
+            "firstName": "First Name",
+            "lastName": "Last Name",
+            "email": "Email",
+            "phoneNumber": "Phone Number",
+            "hireDate": "Hire Date",
+            "salary": "Salary",
+            "commissionPct": "Commission Pct",
+            "department": "Department",
+            "job": "Job",
+            "manager": "Manager",
+            "help": {
+                "firstName": "The firstname attribute."
+            }
+        }
+    }
+}
