@@ -15,16 +15,16 @@
             "detail": {
                 "title": "Employee"
             },
-            "firstName": "First Name",
-            "lastName": "Last Name",
-            "email": "Email",
-            "phoneNumber": "Phone Number",
-            "hireDate": "Hire Date",
-            "salary": "Salary",
-            "commissionPct": "Commission Pct",
-            "department": "Department",
-            "job": "Job",
-            "manager": "Manager",
+            "firstName": "First Name,名字",
+            "lastName": "Last Name,姓",
+            "email": "Email,邮箱",
+            "phoneNumber": "Phone Number,电话号码",
+            "hireDate": "Hire Date,录用日期",
+            "salary": "Salary,工资",
+            "commissionPct": "Commission Pct,佣金",
+            "department": "Department,部门",
+            "job": "Job,职称",
+            "manager": "Manager,经理",
             "help": {
                 "firstName": "The firstname attribute."
             }

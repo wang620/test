@@ -7,14 +7,14 @@
             "jhipster-needle-menu-add-element": "JHipster will add additional menu entries here (do not translate!)",
             "entities": {
                 "main": "数据",
-                "region": "Region",
-                "country": "Country",
-                "location": "Location",
-                "department": "Department",
-                "task": "Task",
-                "employee": "Employee",
-                "job": "Job",
-                "jobHistory": "Job History",
+                "region": "Region,地区",
+                "country": "Country,国家",
+                "location": "Location,地点",
+                "department": "Department,部门",
+                "task": "Task,任务",
+                "employee": "Employee,员工",
+                "job": "Job,职位",
+                "jobHistory": "Job History,工作经历",
                 "jhipster-needle-menu-add-entry": "JHipster will add additional entities here (do not translate!)"
             },
             "account": {

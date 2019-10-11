@@ -2,9 +2,9 @@
     "testApp": {
         "Language": {
             "null": "",
-            "FRENCH": "FRENCH",
-            "ENGLISH": "ENGLISH",
-            "SPANISH": "SPANISH"
+            "FRENCH": "FRENCH,法文",
+            "ENGLISH": "ENGLISH,英语",
+            "SPANISH": "SPANISH,西班牙文"
         }
     }
 }

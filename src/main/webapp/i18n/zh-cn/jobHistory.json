@@ -15,12 +15,12 @@
             "detail": {
                 "title": "Job History"
             },
-            "startDate": "Start Date",
-            "endDate": "End Date",
-            "language": "Language",
-            "job": "Job",
-            "department": "Department",
-            "employee": "Employee"
+            "startDate": "Start Date,开始时间",
+            "endDate": "End Date,结束时间",
+            "language": "Language,语言",
+            "job": "Job,职位",
+            "department": "Department,部门",
+            "employee": "Employee,员工"
         }
     }
 }

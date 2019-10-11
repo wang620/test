@@ -15,11 +15,11 @@
             "detail": {
                 "title": "Job"
             },
-            "jobTitle": "Job Title",
-            "minSalary": "Min Salary",
-            "maxSalary": "Max Salary",
-            "employee": "Employee",
-            "task": "Task"
+            "jobTitle": "Job Title,职称",
+            "minSalary": "Min Salary,最低工资",
+            "maxSalary": "Max Salary,最高工资",
+            "employee": "Employee,员工",
+            "task": "Task,任务"
         }
     }
 }

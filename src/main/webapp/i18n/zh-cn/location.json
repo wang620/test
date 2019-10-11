@@ -15,11 +15,11 @@
             "detail": {
                 "title": "Location"
             },
-            "streetAddress": "Street Address",
-            "postalCode": "Postal Code",
-            "city": "City",
-            "stateProvince": "State Province",
-            "country": "Country"
+            "streetAddress": "Street Address,街道地址",
+            "postalCode": "Postal Code,邮政编码",
+            "city": "City,城市",
+            "stateProvince": "State Province,州/省",
+            "country": "Country,国家"
         }
     }
 }

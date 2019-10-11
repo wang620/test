@@ -15,9 +15,9 @@
             "detail": {
                 "title": "Task"
             },
-            "title": "Title",
-            "description": "Description",
-            "job": "Job"
+            "title": "Title,标题",
+            "description": "Description,描述",
+            "job": "Job,工作"
         }
     }
 }

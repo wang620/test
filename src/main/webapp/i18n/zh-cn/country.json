@@ -15,8 +15,8 @@
             "detail": {
                 "title": "Country"
             },
-            "countryName": "Country Name",
-            "region": "Region"
+            "countryName": "Country Name,国家名称",
+            "region": "Region,地区"
         }
     }
 }

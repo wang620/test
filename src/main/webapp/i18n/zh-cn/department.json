@@ -15,9 +15,9 @@
             "detail": {
                 "title": "Department"
             },
-            "departmentName": "Department Name",
-            "location": "Location",
-            "employee": "Employee"
+            "departmentName": "Department Name,部门名称",
+            "location": "Location,位置",
+            "employee": "Employee,员工"
         }
     }
 }
